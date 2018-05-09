@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">GarbhSanskar</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="title_home">Profile</string>
+    <string name="title_videos">Patient List</string>
+    <string name="title_coupens">Articles</string>
+    <string name="title_offers">Questionnaries</string>
+
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/title_home</item>
+        <item>@string/title_videos</item>
+        <item>@string/title_coupens</item>
+        <item>@string/title_offers</item>
+
+    </string-array>
+
+
+    <string-array name="nav_drawer_labels1">
+        <item>@string/title_home</item>
+        <item>@string/title_videos</item>
+        <item>@string/title_coupens</item>
+        <item>@string/title_offers</item>
+
+    </string-array>
+
+
+    <!--Login Screen-->
+    <string name="hint_mobile">Mobile Number or Email</string>
+    <string name="hint_password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="ch_remember">Remember me</string>
+    <string name="not_register">Not Registered?</string>
+    <string name="not_register_two"><u>Signup</u></string>
+
+    <!--change pass-->
+    <string name="old_pass">Old Password</string>
+    <string name="new_pass">New Password</string>
+
+    <!--menu_home_category-->
+
+    <string name="m_1">Garbhsanskar Prasang</string>
+    <string name="m_2">Daily Yoga</string>
+    <string name="m_3">Inspirational Video</string>
+    <string name="m_4">Inspirational Prasang</string>
+    <string name="m_5">Story Time</string>
+    <string name="m_6">Activity Corner</string>
+    <string name="m_7">Shlok &#38; Mantra</string>
+    <string name="m_8">Prathna</string>
+    <string name="m_9">Halrada &#38; Songs</string>
+    <string name="m_10">Diet Plan</string>
+    <string name="m_11">Hobby &#38; Others</string>
+    <string name="m_12">Music</string>
+
+
+    <!--Content task-->
+    <string name="cont">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+    <!--signup-->
+    <string name="f_name">Firstname</string>
+    <string name="l_name">Lastname</string>
+    <string name="dob">Date of birth</string>
+    <string name="Mob">Mobile Number</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="c_password">Confirm Password</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="country">Country</string>
+    <string name="pincode">Pincode</string>
+    <string name="nationality">Nationality</string>
+    <string name="signup">Sign up</string>
+
+</resources>
